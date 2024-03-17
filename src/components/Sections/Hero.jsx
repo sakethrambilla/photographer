@@ -14,7 +14,7 @@ const Hero = () => {
         </div>
         <div className="text-3xl flex flex-col gap-4 font-semibold ">
           <div className="flex gap-4 items-center ">
-            Let's{" "}
+            Let&apos;s{" "}
             <div className="bg-indigo-600 px-10  py-4 rounded-full">
               <Image
                 src="/stroke.png"

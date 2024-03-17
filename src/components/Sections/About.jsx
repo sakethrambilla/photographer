@@ -46,8 +46,8 @@ const About = () => {
             <p className="text-left px-4 text-gray-500 ">
               My journey as a photographer has been a lifelong quest to capture
               the extraordinary in the ordinary, to freeze fleeting moments in
-              time, and to share the world's beauty as I see it. Based in the
-              enchanting landscapes of the USA, I find inspiration in every
+              time, and to share the world&apos;s beauty as I see it. Based in
+              the enchanting landscapes of the USA, I find inspiration in every
               corner of this diverse and vibrant country. Join me as we embark
               on a visual odyssey, where each photograph tells a story, and
               every frame is a piece of my heart.
@@ -96,7 +96,7 @@ const About = () => {
               </div>
               <div className="flex flex-col items-center justify-center md:flex-row gap-2">
                 <div className="px-4 py-3 bg-[#1C1C21] text-gray-200  w-72 md:w-fit  flex items-center justify-center rounded-lg">
-                  Let's Work
+                  Let&apos;s Work
                 </div>
                 <div className="px-4 py-3 bg-[#1C1C21] text-gray-200  w-72 md:w-fit flex items-center justify-center rounded-lg">
                   Download CV
